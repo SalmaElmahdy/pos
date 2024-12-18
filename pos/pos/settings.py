@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "orders",
     "users",
+    "items",
     "rest_framework",
     'rest_framework_simplejwt',
 ]
